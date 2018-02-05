@@ -1,0 +1,19 @@
+{
+  "name": "dayz-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evonsdesigns/dayz-planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evonsdesigns/dayz-planner/issues"
+  },
+  "homepage": "https://github.com/evonsdesigns/dayz-planner#readme"
+}
